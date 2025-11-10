@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42da6885-5b23-4120-ac32-f57b78e5045d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/myScript.py" afterDir="false" />
-    </list>
+    <list default="true" id="42da6885-5b23-4120-ac32-f57b78e5045d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "0bfe27e9",
     "last_opened_file_path": "C:/common/3430/tp3/TP4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -115,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762733100808</updated>
-      <workItem from="1762733102433" duration="3986000" />
+      <workItem from="1762733102433" duration="4337000" />
     </task>
     <servers />
   </component>
